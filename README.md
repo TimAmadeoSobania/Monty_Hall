@@ -5,4 +5,4 @@ This is a fast and easy implementation of the [Monty Hall](https://en.wikipedia.
 
 It shows, that after switching the door the possibility of winning the car is 66%.
 
-While most people think that after the host opens one door the chance is 50/50, the crucial part actually happens when choosing the first door. As you make that decision the propability of choosing the right door is 1/3 = 33%. Logically the propability of the car beeing behind one of the other doows is 2/3 = 66%. This propability stays even after the host reveals one goat. The 66% are now on the other door.
+While most people think that after the host opens one door the chance is 50/50, the crucial part actually happens when choosing the first door. As you make that decision the propability of choosing the right door is 1/3 = 33%. Logically the propability of the car beeing behind one of the other doors is 2/3 = 66%. This propability stays even after the host reveals one goat. The 66% are now on the other door.
